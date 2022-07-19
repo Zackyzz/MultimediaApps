@@ -1,0 +1,7 @@
+C:\Users\desktop\source\repos\TonomatMealy\bin\Debug\TonomatMealy.exe.config
+C:\Users\desktop\source\repos\TonomatMealy\bin\Debug\TonomatMealy.exe
+C:\Users\desktop\source\repos\TonomatMealy\bin\Debug\TonomatMealy.pdb
+C:\Users\desktop\source\repos\TonomatMealy\obj\Debug\TonomatMealy.csprojAssemblyReference.cache
+C:\Users\desktop\source\repos\TonomatMealy\obj\Debug\TonomatMealy.exe
+C:\Users\desktop\source\repos\TonomatMealy\obj\Debug\TonomatMealy.pdb
+C:\Users\desktop\source\repos\TonomatMealy\obj\Debug\TonomatMealy.csproj.CoreCompileInputs.cache

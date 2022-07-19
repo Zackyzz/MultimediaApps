@@ -1,0 +1,7 @@
+C:\Users\desktop\source\repos\Pullback\obj\Debug\Pullback.csprojAssemblyReference.cache
+C:\Users\desktop\source\repos\Pullback\bin\Debug\Pullback.exe.config
+C:\Users\desktop\source\repos\Pullback\bin\Debug\Pullback.exe
+C:\Users\desktop\source\repos\Pullback\bin\Debug\Pullback.pdb
+C:\Users\desktop\source\repos\Pullback\obj\Debug\Pullback.exe
+C:\Users\desktop\source\repos\Pullback\obj\Debug\Pullback.pdb
+C:\Users\desktop\source\repos\Pullback\obj\Debug\Pullback.csproj.CoreCompileInputs.cache
